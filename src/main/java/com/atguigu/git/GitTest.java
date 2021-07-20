@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("fix-hot修改");
         System.out.println("push-hot修改");
         System.out.println("pullteat");
+        System.out.println("pullteat2");
     }
 }
