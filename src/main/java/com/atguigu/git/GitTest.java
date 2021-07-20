@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("第三次修改");
         System.out.println("fix-hot修改");
         System.out.println("push-hot修改");
+        System.out.println("pullteat");
     }
 }
